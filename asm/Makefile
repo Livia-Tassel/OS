@@ -33,8 +33,8 @@ SECTIONS_Jump = \
 	jalr \
 
 SECTIONS_CallingConventions = \
-	cc_leaf \
-	cc_nested \
+	leaf \
+	nested \
 
 SECTIONS_others = \
 	asm2c \
